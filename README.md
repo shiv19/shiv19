@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **shiv19/shiv19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="left">Hi 👋</h1>
+<h4 align="left">I'm Shiva, a full time mobile app developer working in Auckland, NZ</h4>
+
+Currently working on the mobile app Grainfather Community for the company Bevie.
+
+Website **[shiv19.com](https://shiv19.com/)**<br>
+Email **[sp@shiv19.com](mailto:sp@shiv19.com)**<br>
+Linkedin **[linkedin.com/in/multishiv19](https://linkedin.com/in/multishiv19)**<br>
+
+Youtube, Instagram, Twitter, Facebook -> MultiShiv19
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=9407019" alt="netlob" /> </p>
+
