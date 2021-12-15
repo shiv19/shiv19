@@ -24,5 +24,6 @@ Linkedin **[linkedin.com/in/multishiv19](https://linkedin.com/in/multishiv19)**<
 
 Youtube, Instagram, Twitter, Facebook -> MultiShiv19
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=9407019" alt="netlob" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=multishiv19" alt="profileview_ticker" /> </p>
+![](https://hit.yhype.me/github/profile?user_id=9407019)
 
