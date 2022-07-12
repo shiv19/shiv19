@@ -27,4 +27,6 @@ Youtube, Instagram, Twitter, Facebook -> MultiShiv19
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=multishiv19" alt="profileview_ticker" /> </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=9407019)
+[![GitHub Shiv19](https://img.shields.io/github/followers/shiv19?label=follow&style=social)](https://github.com/shiv19)
+![Twitter Follow](https://img.shields.io/twitter/follow/multishiv19?style=social)
 
