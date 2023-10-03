@@ -30,3 +30,5 @@ Youtube, Instagram, Twitter, Facebook -> MultiShiv19
 [![GitHub Shiv19](https://img.shields.io/github/followers/shiv19?label=follow&style=social)](https://github.com/shiv19)
 ![Twitter Follow](https://img.shields.io/twitter/follow/multishiv19?style=social)
 
+[![An image of @shiv19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shiv19)](https://holopin.io/@shiv19)
+
