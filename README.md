@@ -26,7 +26,7 @@ Youtube, Instagram, Twitter, Facebook -> MultiShiv19
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=multishiv19" alt="profileview_ticker" /> </p>
 
-![Shiv19's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiv19)
+![Shiv19's GitHub stats (Public only)](https://github-readme-stats.vercel.app/api?username=shiv19)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv19&layout=compact)
 
 ![](https://hit.yhype.me/github/profile?user_id=9407019)
