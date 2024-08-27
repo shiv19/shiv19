@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="left">Hi 👋</h1>
 <h4 align="left">I'm Shiva, a full time mobile app developer working in Auckland, NZ</h4>
 
-Currently working on the mobile app Grainfather Community for the company Bevie.
+Currently working on the mobile app Simpro Mobile for the company Simpro.
 
 Website **[shiv19.com](https://shiv19.com/)**<br>
 Email **[sp@shiv19.com](mailto:sp@shiv19.com)**<br>
