@@ -24,7 +24,7 @@ Linkedin **[linkedin.com/in/multishiv19](https://linkedin.com/in/multishiv19)**<
 
 Youtube, Instagram, Twitter, Facebook -> MultiShiv19
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=multishiv19&base=14000&abbreviated=true" alt="profileview_ticker" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=multishiv19" alt="profileview_ticker" /> </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv19&layout=compact&theme=cobalt)
 
