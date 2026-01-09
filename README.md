@@ -14,9 +14,16 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="left">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"></h1>
-<h4 align="left">I'm Shiva, a full time mobile app developer working in Auckland, NZ</h4>
 
-Currently working on the mobile app Simpro Mobile for the company Simpro.
+Kia ora! I'm Shiva Prasad, a 30-year-old mobile technologist based in Auckland, New Zealand.
+
+I’ve always been a builder at heart. I started out hacking together prototypes and diving deep into NativeScript plugins, driven by the pure joy of making things work. Over the last decade, that journey has taken me from writing code to leading the teams that write it. Today, I focus on the bigger picture: architecting scalable platforms, mentoring engineers, and bridging the gap between ambitious product ideas and rock-solid technical execution.
+
+Quick Facts
+- Current Role: Engineering Manager at Simpro Group
+- Home Base: Auckland, New Zealand (originally from Karnataka, India)
+- Tech Roots: NativeScript, Angular, Node.js, and Mobile Architecture
+- Experience: 10+ years of shipping apps and solving problems
 
 Website **[shiv19.com](https://shiv19.com/)**<br>
 Email **[sp@shiv19.com](mailto:sp@shiv19.com)**<br>
