@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="left">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"></h1>
 
-Kia ora! I'm Shiva Prasad, a 30-year-old mobile technologist based in Auckland, New Zealand.
+Kia ora! I'm Shiva Prasad, a tech geek based in Auckland, New Zealand.
 
 I’ve always been a builder at heart. I started out hacking together prototypes and diving deep into NativeScript plugins, driven by the pure joy of making things work. Over the last decade, that journey has taken me from writing code to leading the teams that write it. Today, I focus on the bigger picture: architecting scalable platforms, mentoring engineers, and bridging the gap between ambitious product ideas and rock-solid technical execution.
 
