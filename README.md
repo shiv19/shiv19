@@ -30,8 +30,6 @@ Email **[sp@shiv19.com](mailto:sp@shiv19.com)**<br>
 Linkedin **[linkedin.com/in/multishiv19](https://linkedin.com/in/multishiv19)**<br>
 
 Youtube, Instagram, Twitter, Facebook -> MultiShiv19
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=multishiv19" alt="profileview_ticker" /> </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=9407019)
 [![GitHub Shiv19](https://img.shields.io/github/followers/shiv19?label=follow&style=social)](https://github.com/shiv19)
